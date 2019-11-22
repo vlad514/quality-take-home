@@ -1,6 +1,6 @@
 # Questions
 
-##Bug Report!
+## Bug Report!
 
 What is an excellent bug report you created at a previous company which was of a high priority, high severity in a build about to be deployed to production? (Please write the bug report below)
 
